@@ -5,12 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhiknows23/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhiknows23/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhiknows23/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
