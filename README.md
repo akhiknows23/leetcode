@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/akhiknows23/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/akhiknows23/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/akhiknows23/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akhiknows23/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -38,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/akhiknows23/leetcode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
