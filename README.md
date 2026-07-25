@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akhiknows23/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/akhiknows23/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/akhiknows23/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/akhiknows23/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akhiknows23/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/akhiknows23/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akhiknows23/leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/akhiknows23/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/akhiknows23/leetcode/tree/master/0263-ugly-number) |
 ## Dynamic Programming
 |  |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akhiknows23/leetcode/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/akhiknows23/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
