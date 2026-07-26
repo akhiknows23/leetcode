@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/akhiknows23/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/akhiknows23/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/akhiknows23/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhiknows23/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/akhiknows23/leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
