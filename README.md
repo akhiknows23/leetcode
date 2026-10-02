@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/akhiknows23/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akhiknows23/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/akhiknows23/leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/akhiknows23/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akhiknows23/leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/akhiknows23/leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
