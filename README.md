@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/akhiknows23/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akhiknows23/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/akhiknows23/leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/akhiknows23/leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/akhiknows23/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/akhiknows23/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhiknows23/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akhiknows23/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/akhiknows23/leetcode/tree/master/0120-triangle) |
 ## Memoization
 |  |
 | ------- |
